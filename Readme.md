@@ -1,10 +1,13 @@
 # Exercício de Precificação de Imóveis
 
+[Link pro Google Colab](https://colab.research.google.com/drive/1iPDRQnBOkfrkh9_1opq10ANPf5MX5w_F?usp=sharing)
+
 Projeto com objetivo de praticar e revisar Regressão Linear através da precificação de imóveis.
 
 O estudo foi feito com base em exercícios prévios:
 * Curso de Regressão Linear: testando relações e prevendo resultados (Alura), onde foi desenvolvido um modelo de regressão linear sobre o consumo de cerveja ao longo de um ano.
 * 4ª Imersão Dados (Alura), com desenvolvimento de um modelo de precificação de imóveis em uma base de dados reais de São Paulo
+
 [Link do projeto](https://github.com/Tathy/Pesquisa-Imoveis-SP)
 
 Dataset: https://www.kaggle.com/greenwing1985/housepricing
