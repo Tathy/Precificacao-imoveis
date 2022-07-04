@@ -5,7 +5,7 @@ Projeto com objetivo de praticar e revisar Regressão Linear através da precifi
 O estudo foi feito com base em exercícios prévios:
 * Curso de Regressão Linear: testando relações e prevendo resultados (Alura), onde foi desenvolvido um modelo de regressão linear sobre o consumo de cerveja ao longo de um ano.
 * 4ª Imersão Dados (Alura), com desenvolvimento de um modelo de precificação de imóveis em uma base de dados reais de São Paulo
-[Link do projeto]()
+[Link do projeto](https://github.com/Tathy/Pesquisa-Imoveis-SP)
 
 Dataset: https://www.kaggle.com/greenwing1985/housepricing
 
@@ -26,5 +26,5 @@ As métricas usadas para avaliação foram Coeficiente de Determinação (R²), 
 ### Gráfico de Dispersão ideal
 
 <div align="center">
-  <img src=""/>
+  <img src="https://github.com/Tathy/Precificacao-imoveis/blob/main/images/grafico_dispersao.png?raw=true"/>
 </div>
